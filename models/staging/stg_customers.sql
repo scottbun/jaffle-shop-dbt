@@ -1,4 +1,4 @@
 select
   id as customer_id,
-  name
+  name as customer_name
 from raw.raw_customers
