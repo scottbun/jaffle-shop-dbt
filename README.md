@@ -54,6 +54,9 @@ See https://github.com/scottbun/jaffle-shop-dashboard
 ## To Do
 * Add `schema.yml` for testing and documenting the models
 
+## Credits
+Modeling patterns are inspired from examples from dbt Labs.
+
 ## References
 
 * Courses from dbt Labs: https://learn.getdbt.com/catalog
