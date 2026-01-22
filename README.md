@@ -37,7 +37,7 @@ python load_raw_data.py
 ```
 
 ## Data Transformation
-Data is tranformed in the database using dbt models. To run the transformations use the command
+Data is transformed in the database using dbt models. To run the transformations use the command
 ```bash
 dbt run
 ```
